@@ -51,7 +51,7 @@ const Hero = () => {
           </div>
         </div>
 
-        <div className="mt-[15vh] sm:mt-[30vh] md:mt-[40vh]">
+        <div className="mt-[25vh] sm:mt-[30vh] md:mt-[40vh]">
           <Brands />
         </div>
       </div>

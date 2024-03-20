@@ -4,7 +4,7 @@ import { tlo } from "../assets/index";
 const Newsletter = () => {
   return (
     <section className="py-40 bg-bg-tlo relative" id="newsletter">
-      <img src={tlo} alt="tlo" className="absolute top-2 opacity-20" />
+      <img src={tlo} alt="tlo" className="absolute top-2 opacity-45" />
 
       <div className="relative  p-5">
         <h3 className="h3 font-semibold text-center max-w-2xl mx-auto text-white">
